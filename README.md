@@ -1,7 +1,10 @@
-# IBM-HR-Dashboard
-IBM HR Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiY2VkNWNhYWYtNDViOC00NGI3LWFlNjgtNzQ1MTY5NjhmMmMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
+# IBM HR 
+[IBM HR Dashboard - Power BI](https://app.powerbi.com/view?r=eyJrIjoiY2VkNWNhYWYtNDViOC00NGI3LWFlNjgtNzQ1MTY5NjhmMmMxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+## Data Used
+Data Visualization - PowerBI
+
+## Summary 
 IBM HR Dashboard offers a comprehensive overview of the employee demographics within a company, covering various aspects such as age distribution, job roles, departmental distribution, gender representation, marital status, hourly rates, education field, and business travel frequency.
 
 Firstly, the breakdown of employees by age reveals a diverse workforce, with a significant portion falling within the 20-30 and 30-40 age groups. In terms of job roles, the majority of employees are Research Scientists and Laboratory Technicians, followed by Manufacturing Directors and Healthcare Representatives. The distribution of employees across different departments shows that the Research & Development department has the highest number of employees, followed by Sales and Human Resources.
